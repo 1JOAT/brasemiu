@@ -4,14 +4,14 @@ A modern, cinematic portfolio website built with Next.js 15, TypeScript, and Tai
 
 ## Features
 
-- 🎬 **Cinematic Design** - Sleek, professional aesthetic tailored for video editors
-- 🚀 **Next.js 15** - Latest features including App Router and Server Components
-- 📱 **Fully Responsive** - Optimized for all devices and screen sizes
-- ⚡ **Performance Optimized** - Fast loading with image optimization and lazy loading
-- 🎯 **SEO Ready** - Comprehensive meta tags, structured data, and sitemap
-- 🎨 **Smooth Animations** - Subtle, professional animations and transitions
-- 📹 **Video Integration** - YouTube video embeds and portfolio showcases
-- 🛡️ **Type Safe** - Full TypeScript implementation
+-  **Cinematic Design** - Sleek, professional aesthetic tailored for video editors
+-  **Next.js 15** - Latest features including App Router and Server Components
+-  **Fully Responsive** - Optimized for all devices and screen sizes
+-  **Performance Optimized** - Fast loading with image optimization and lazy loading
+-  **SEO Ready** - Comprehensive meta tags, structured data, and sitemap
+-  **Smooth Animations** - Subtle, professional animations and transitions
+-  **Video Integration** - YouTube video embeds and portfolio showcases
+-  **Type Safe** - Full TypeScript implementation
 
 ## Tech Stack
 
