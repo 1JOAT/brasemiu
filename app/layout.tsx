@@ -12,7 +12,7 @@ const spaceGrotesk = Space_Grotesk({
 export const metadata: Metadata = {
   metadataBase: new URL('https://your-domain.com'),
   title: {
-    default: 'Osuolale Opeyemi - Cinematic Video Editor | Professional Film & Commercial Editing',
+    default: 'Adesada Opeyemi - Cinematic Video Editor | Professional Film & Commercial Editing',
     template: '%s | Adesada Opeyemi - Video Editor'
   },
   description: 'Award-winning video editor with 8+ years of experience crafting cinematic stories for Netflix, Sony Pictures, and Warner Bros. Specializing in commercials, documentaries, and narrative films.',
